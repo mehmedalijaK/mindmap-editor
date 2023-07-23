@@ -1,0 +1,3 @@
+[ERROR][10:07:38] You can not delete node!
+[ERROR][10:07:40] You can not delete node!
+[ERROR][10:07:42] You can not delete node!

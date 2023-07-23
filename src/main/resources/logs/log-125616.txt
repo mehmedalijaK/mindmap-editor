@@ -1,0 +1,31 @@
+[INFORMATION][12:55:45] Node is successfully added!
+[INFORMATION][12:55:46] Node is successfully added!
+[INFORMATION][12:55:46] Node is successfully added!
+[ERROR][12:55:47] You can not delete Project Explorer!
+[ERROR][12:55:49] You can not delete Project Explorer!
+[ERROR][12:55:49] You can not delete Project Explorer!
+[INFORMATION][12:55:51] Node is successfully added!
+[INFORMATION][12:55:51] Node is successfully added!
+[INFORMATION][12:55:56] Project name is successfully changed!
+[INFORMATION][12:56:01] Node is successfully deleted!
+[INFORMATION][12:56:02] Node is successfully deleted!
+[INFORMATION][12:56:02] Node is successfully deleted!
+[ERROR][12:56:03] You can not delete node!
+[ERROR][12:56:03] You can not delete node!
+[ERROR][12:56:03] You can not delete node!
+[ERROR][12:56:03] You can not delete node!
+[INFORMATION][12:56:05] Node is successfully added!
+[INFORMATION][12:56:06] Node is successfully added!
+[INFORMATION][12:56:06] Node is successfully added!
+[INFORMATION][12:56:06] Node is successfully added!
+[INFORMATION][12:56:08] Node is successfully deleted!
+[INFORMATION][12:56:09] Node is successfully added!
+[INFORMATION][12:56:09] Node is successfully added!
+[INFORMATION][12:56:09] Node is successfully added!
+[INFORMATION][12:56:10] Node is successfully added!
+[INFORMATION][12:56:10] Node is successfully added!
+[ERROR][12:56:11] You can not add child to element!
+[ERROR][12:56:12] You can not add child to element!
+[ERROR][12:56:12] You can not add child to element!
+[ERROR][12:56:13] You can not add child to element!
+[ERROR][12:56:13] You can not add child to element!

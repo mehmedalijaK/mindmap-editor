@@ -1,0 +1,21 @@
+[INFORMATION][06:07:05] Node is successfully added!
+[INFORMATION][06:07:05] Node is successfully added!
+[INFORMATION][06:07:05] Node is successfully added!
+[INFORMATION][06:07:06] Node is successfully added!
+[INFORMATION][06:07:06] Node is successfully added!
+[INFORMATION][06:07:06] Node is successfully added!
+[INFORMATION][06:07:06] Node is successfully added!
+[INFORMATION][06:07:07] Node is successfully added!
+[INFORMATION][06:07:08] Node is successfully added!
+[INFORMATION][06:07:08] Node is successfully added!
+[INFORMATION][06:07:08] Node is successfully added!
+[ERROR][06:07:09] You can not add child to element!
+[ERROR][06:07:09] You can not add child to element!
+[ERROR][06:07:09] You can not add child to element!
+[INFORMATION][06:07:10] Node is successfully deleted!
+[INFORMATION][06:07:11] Node is successfully deleted!
+[INFORMATION][06:07:11] Node is successfully deleted!
+[ERROR][06:07:12] You can not delete node!
+[ERROR][06:07:12] You can not delete node!
+[ERROR][06:07:21] You can not delete node!
+[ERROR][06:07:22] You can not add child, node can not be empty!

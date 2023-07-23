@@ -1,0 +1,33 @@
+[INFORMATION][06:04:46] Node is successfully added!
+[INFORMATION][06:04:46] Node is successfully added!
+[INFORMATION][06:04:47] Node is successfully added!
+[INFORMATION][06:04:47] Node is successfully added!
+[INFORMATION][06:04:47] Node is successfully added!
+[INFORMATION][06:04:47] Node is successfully added!
+[INFORMATION][06:04:48] Node is successfully added!
+[INFORMATION][06:04:48] Node is successfully added!
+[INFORMATION][06:04:48] Node is successfully added!
+[INFORMATION][06:04:49] Node is successfully deleted!
+[ERROR][06:04:49] You can not delete node!
+[ERROR][06:04:49] You can not delete node!
+[ERROR][06:04:50] You can not delete node!
+[ERROR][06:04:50] You can not delete node!
+[INFORMATION][06:04:52] Author name is changed!
+[INFORMATION][06:04:59] Project name is successfully changed!
+[INFORMATION][06:05:06] Project name is successfully changed!
+[INFORMATION][06:05:08] Node is successfully added!
+[INFORMATION][06:05:08] Node is successfully added!
+[INFORMATION][06:05:09] Node is successfully added!
+[INFORMATION][06:05:09] Node is successfully added!
+[ERROR][06:05:10] You can not add child to element!
+[ERROR][06:05:10] You can not add child to element!
+[ERROR][06:05:10] You can not add child to element!
+[ERROR][06:05:10] You can not add child to element!
+[INFORMATION][06:05:12] Node is successfully deleted!
+[ERROR][06:05:12] You can not delete node!
+[INFORMATION][06:05:13] Node is successfully deleted!
+[ERROR][06:05:13] You can not delete node!
+[INFORMATION][06:05:14] Node is successfully deleted!
+[INFORMATION][06:05:15] Node is successfully deleted!
+[INFORMATION][06:05:16] Node is successfully deleted!
+[ERROR][06:05:16] You can not delete Project Explorer!

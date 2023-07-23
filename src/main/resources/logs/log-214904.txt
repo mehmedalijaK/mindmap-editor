@@ -1,0 +1,17 @@
+[INFORMATION][21:48:11] Node is successfully added!
+[INFORMATION][21:48:12] Node is successfully added!
+[INFORMATION][21:48:13] Node is successfully added!
+[ERROR][21:48:15] You can not delete Project Explorer!
+[INFORMATION][21:48:19] Node is successfully added!
+[INFORMATION][21:48:20] Node is successfully added!
+[INFORMATION][21:48:20] Node is successfully added!
+[INFORMATION][21:48:20] Node is successfully added!
+[INFORMATION][21:48:20] Node is successfully added!
+[ERROR][21:48:22] You can not add child to element!
+[ERROR][21:48:26] Only projects can have authors!
+[ERROR][21:48:29] Only projects can have authors!
+[ERROR][21:48:30] Only projects can have authors!
+[INFORMATION][21:48:38] Author name is changed!
+[INFORMATION][21:48:40] Node is successfully deleted!
+[ERROR][21:48:50] You need to select node!
+[ERROR][21:48:54] You can not delete node!

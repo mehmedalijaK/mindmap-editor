@@ -1,0 +1,10 @@
+[ERROR][12:58:17] You can not add child, node can not be empty!
+[INFORMATION][12:58:17] Node is successfully added!
+[INFORMATION][12:58:17] Node is successfully added!
+[INFORMATION][12:58:18] Node is successfully added!
+[INFORMATION][12:58:19] Node is successfully added!
+[INFORMATION][12:58:19] Node is successfully added!
+[INFORMATION][12:58:19] Node is successfully added!
+[INFORMATION][12:58:20] Node is successfully added!
+[INFORMATION][12:58:20] Node is successfully added!
+[INFORMATION][12:58:20] Node is successfully added!
